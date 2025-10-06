@@ -1,0 +1,7 @@
+a, b, c, d, f = input("Enter any 5-digit integer: ")
+y = int(a)
+u = int(b)
+v = int(c)
+w = int(d)
+p = int(f)
+print(p, w, v, u, y)
