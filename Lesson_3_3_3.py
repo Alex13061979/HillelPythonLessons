@@ -1,5 +1,9 @@
 # Case3: Odd number of values in a list
 first_list = [55, 17, 7, 11, 0, -5, 3]
+
+lst_len = len(first_list)
+print(lst_len)
+
 sub_list1 = first_list[:4]
 sub_list2 = first_list[4:]
 

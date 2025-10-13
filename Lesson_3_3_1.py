@@ -1,5 +1,9 @@
 # Case1: The list is empty
 first_list = []
+
+lst_len = len(first_list)
+print(lst_len)
+
 sub_list1 = first_list[:0]
 sub_list2 = first_list[0:]
 
